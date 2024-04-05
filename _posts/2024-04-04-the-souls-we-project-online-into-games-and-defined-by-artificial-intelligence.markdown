@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 'The Souls We Project Online, Into Games, and Defined by Artificial Intelligence'
-date: 2024-04-01T09:00:00.000Z
+date: 2024-04-04T09:00:00.000Z
 tags:
   - Souls
   - Online
