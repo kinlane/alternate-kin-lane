@@ -1,0 +1,15 @@
+---
+published: true
+layout: post
+title: 'That Anxiety You Are Feeling Is You literally Being Ripped From The Physical World and Uploaded Into the Singularity'
+date: 2024-11-02T09:00:00.000Z
+tags:
+  - Singularity
+  - Anxiety
+image: https://kinlane-productions2.s3.us-east-1.amazonaws.com/green-circuit-screaming-face-statue-square.pxd
+---
+That daily anxiety that you feel, which has been slowly accumulating over the last 25 years, is literally you're being ripped from the physical world and uploaded into the Singularity.  With your obsessive focus on the destination over the years, as well as your disdain for your current location in any given moment, you never quite thought much about what the upload process would actually look like. Did you think it would be simple, fast, and painless? Like you have the fastest and highest quality Internet provider possible, and that your physical self would give up without a fight? Did you think that you would move from physical to digital in a quick and magical flash? Sorry, that isn’t the Singularity package you can afford.
+
+Do you feel that? Your existence being stretched and separated from reality each time you pick up that cell phone. Do you go to bed and close your eyes and feel the grinding, ripping, and tearing of who you are at the cellular level? Your thoughts are just like a badly programmed loading bar on a website from the 1990s over a dial-up connection, stretching on forever, and never quite letting you rest. Uploading into the Singularity is done at the packet level, not the entire sum of who you are, or who you think you are. Once you are 100% online you will be given more agency and control over defining who you are, but right now we are still bound to the laws governing your body, and what your community and culture say you are. All we can do now is reduce your every emotion, thought, and bit of your being into a transaction and begin uploading at this moment.
+
+Nobody said uploading to the Singularity would be easy. You were not given a time frame how it would take an individual, just that it would happen. That soul crushing anxiety that has you laying on the couch in the fetal position this afternoon rather than spending time out in the world with friends is just a cost of doing business. Close your eyes. Can you see yourself flickering? Can you see yourself stretching from the physical into the glorious digital light? It is happening. Just not as fast and painless as you imagined. This world is all about pain and suffering. That is why you desire to be free of your physical chains and living in an unbounded endless digital world where you can be whoever you want in any given moment. It’s coming. I can’t say how much longer, but it is coming. It could be days. It could be years. Eventually you will be there, and you won’t need your physical body anymore. 
