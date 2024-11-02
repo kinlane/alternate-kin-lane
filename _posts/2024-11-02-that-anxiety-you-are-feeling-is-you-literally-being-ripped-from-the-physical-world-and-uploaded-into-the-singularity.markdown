@@ -6,7 +6,7 @@ date: 2024-11-02T09:00:00.000Z
 tags:
   - Singularity
   - Anxiety
-image: https://kinlane-productions2.s3.us-east-1.amazonaws.com/green-circuit-screaming-face-statue-square.pxd
+image: https://kinlane-productions2.s3.us-east-1.amazonaws.com/green-circuit-screaming-face-statue-square.jpg
 ---
 That daily anxiety that you feel, which has been slowly accumulating over the last 25 years, is literally you're being ripped from the physical world and uploaded into the Singularity.  With your obsessive focus on the destination over the years, as well as your disdain for your current location in any given moment, you never quite thought much about what the upload process would actually look like. Did you think it would be simple, fast, and painless? Like you have the fastest and highest quality Internet provider possible, and that your physical self would give up without a fight? Did you think that you would move from physical to digital in a quick and magical flash? Sorry, that isn’t the Singularity package you can afford.
 
