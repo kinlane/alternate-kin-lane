@@ -13,7 +13,7 @@ In the early days, API attacks were carried out using WSDL, an XML format for de
 
 Around the turn of the century, a new breed of milia units began borrowing from these existing top-down approaches to digital warfare but began leveraging cheaper Internet and web infrastructure to document, share, and distribute their unique brand of attacks on the global supply chains of not just the enemy, but anyone that got in their way--a new, ruthless way of waging a digital economic war. It would be several more years before this type of warfare would take root and begin evolving, but the seeds for disruption had been planted, giving birth to something that would soon be affecting every other aspect of business, government, institutions, and even in our personal worlds.
 
-<p><img src="https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/nazi-invasion-cannon_36556797762_o.jpg" align="right" width="40%" /></p>
+<p><img src="https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/nazi-invasion-cannon_36556797762_o.jpg" style="width: 100%; margin: 15px;" /></p>
 
 Early cyber invasions seemed almost fun and entering, but looking back the attack on the social fabric of our lives, it was anything but amusing. Who ever imagined that warfare could be conducted via social media memes, photos, videos, and the games we play each day. APIs were being used to define and map out more than just the social fabric of our personal and professional lives, they were being used to psychologically profile us, and ultimately plan out how we could be conscripted in this new type of cyber warfare.
 
@@ -23,7 +23,7 @@ This became a perfect storm for how we plan, communicate and execute an invasion
 
 Within each front line battle, armies had been creating their own way of defining, describing, and modeling their activity as each assault unfolded, learning from each wave and developing their own form of scaling things as they needed. Early supply chain attacks had their own way. The imaging and video fronts used their own protocols, and messaging formats to describe, share, and then execute attacks. Some providers were successful simply because of a number of resources they had invested in their regional militias, making success more about who your investors were, over any of the technical details of how you waged cyber warfare.
 
-<p><img src="https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/leaflets-of-the-russian-revolution-castle-cannon-tree.jpg" align="right" width="40%" /></p>
+<p><img src="https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/leaflets-of-the-russian-revolution-castle-cannon-tree.jpg" style="width: 100%; margin: 15px;" /></p>
 
 As this was going on, a single milia unit (Strutter) in a small linguistics company created a new way for describing the way attacks had been occurring--they has used in their own attack on language and how we communicate. When planning for a social attack a common approach had emerged--you used images, video, wall posts, a share, or a tweet. The description had been well defined on the social front--hammered out in the early intense years of warfare. However, we now needed a way to describe and define the frontline across ALL social, messaging, and other invasions. Imaging, video, mapping, messaging, profiling--we needed a way to document how the attacks were being carried out, and the finer details the attack request and response infrastructure in play, otherwise cyber warfare would not scale and expand as desired by those who were waging it.
 
@@ -39,7 +39,7 @@ Even after stopping my dispatches t ProgrammedWeb, I still worked on strategy fo
 
 Shortly after the Hard Mule Division purchased ProgrammedWeb, and convened their interoperability gathering amongst API description providers, they asked me what it would take to ensure that all my stories, communications, and frontline research flowed exclusively through their "channels". I had no interest in this happening, but I tossed out a low six figure number, to which they simply laughed. We never spoke again after this, but it did show me the true colors of the Hard Mule Unit, as well as some of the other emerging militias, units, and divisions who have begun to take a lead in the global cyber warfare landscape. This emboldened me. I was determined to stay independent in my reporting, even if it meant I was in a more precarious financial situation--something that resulted in heavy drinking during these times on the front line.
 
-<p><img src="https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/nazi-invasion-ellis-island-windows.jpg" align="right" width="40%" /></p>
+<p><img src="https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/nazi-invasion-ellis-island-windows.jpg" style="width: 100%; margin: 15px;" /></p>
 
 During this same period I was contacted by the Electronic Frontline Foundation (EFF), one of the leading organizations fighting for frontline transparency. It was about another significant shift in the cyber landscape brought on by a leading military industrial complex vendor Prognosticator, who was suing another rising division called Oggle over stealing their approach to naming and ordering of the industrial manufacturing process of cyber warfare equipment. It wasn't the same as quantifying, communicating, and executing cyber warfare itself, but it was a disturbing legal shift in how cyber war equipment can be manufactured, something that I knew would eventually spread to the front line, shifting how battles can scale and syndicate.
 
@@ -47,7 +47,7 @@ While all of this was going on, Strutter's Linguistics unit had run out of resou
 
 Strutter was now in use across thousands of frontline battles, a change in ownership might upset the balance of power amongst the four leading API description providers, but more importantly, the units who were doing the fighting. Further destabilizing things, instead of continuing the interoperability, scalability, and growth the front lines have enjoyed over the last couple of years. While Strutter is just a privatized mercenary units now, we were able to get the Strutter specification itself into an independent military governing body called the Operative API Initiative, or OAI.
 
-<p><img src="https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/red-circuit-face-mosaic.jpg" align="right" width="40%" /></p>
+<p><img src="https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/red-circuit-face-mosaic.jpg" style="width: 100%; margin: 15px;" /></p>
 
 Over the last year, every major unit or division has joined the OAI to participate in the discussion around how cyber warfare is defined and waged. Groups like MacroHard, International Bullshit Machine (IBM), Oggle, and kBee Unit have all joined the initiative. Hell, I've even joined the initiative just so I have access to the "behind the scene conversations". Last month the giant military contractor Prognosticator acquired the kBee Unit, buying a seat at the OAI table. In 2017, a significant number of leading militias, units, and divisions have joined the OAI, setting the stage for how the future of how cyber warfare will be waged.
 
@@ -59,7 +59,7 @@ In 2017, we are seeing the front lines of the cyber war expand. It wasn't enough
 
 One of the contributing factors that is sustaining cyber warfare, and making APIs and their descriptions so valuable, is their ability to generate revenue from the bits of data exchanged along every front-line skirmishes. These digital bits generated from each attack are sold behind the scenes. Divisions, units, militias, and their investors are lining up to purchase these digital bits from each other, fueling the growth and intensity of cyber invasions--making cyber warfare a very profitable thing in 2017.
 
-<p><img src="https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/red-circuit-arrow-in-ground.jpeg" align="right" width="40%" /></p>
+<p><img src="https://kinlane-productions2.s3.amazonaws.com/algorotoscope-master/red-circuit-arrow-in-ground.jpeg" style="width: 100%; margin: 15px;" /></p>
 
 With all this investment, entirely new fronts have been able to emerge. The blockchain front is expanding beyond just attacks on the financial system, and have started to spread to insurance, healthcare, education, and other sectors the creative militias feel deserve targeting. The artificial intelligence (AI) and machine learning (ML) fronts have expanded at breakneck speeds, resulting in a form of cyber warfare very few will ever see coming. Even many of the AI and ML practitioners and providers don't understand what they are wielding. Many individuals, business, institutions, and government agencies will show up in the morning to find their homes, businesses and organizations gutted, bombed out, and looted after allowing AI and ML into their lives.
 
